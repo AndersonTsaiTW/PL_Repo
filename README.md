@@ -11,7 +11,7 @@
 
 ## 課程筆記區
 #### W2 class
-* Solve Code Problems Like an Engineer(most important): [GeekforGeeks](https://www.geeksforgeeks.org/), [Stack Overflow](https://stackoverflow.com/)
+* Solve Code Problems Like an Engineer(most important): [GeekforGeeks](https://www.geeksforgeeks.org/), [StackOverflow](https://stackoverflow.com/)
 * Sync files between local and GitHub: use [GitHub Desktop](https://desktop.github.com/)
 * python's code: data type(int, float, str, bool), if and else, input, print, **while and break**, **datetime(module)**
 * exercise: [0915 2nd class](https://github.com/AndersonTsaiTW/PL-Repo/tree/main/01_Notes/exercise_0915_02of16)

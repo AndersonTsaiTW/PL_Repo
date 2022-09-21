@@ -10,7 +10,12 @@
 系級：校外選讀生
 
 ## 課程筆記區
-[0915 2nd class notes](https://github.com/AndersonTsaiTW/PL-Repo/tree/main/01_Notes/exercise_0915_02of16)
+#### W2 class
+* Solve Code Problems Like an Engineer(most important): [GeekforGeeks](https://www.geeksforgeeks.org/), [StackOverflow](https://stackoverflow.com/)
+* Sync files between local and GitHub: use [GitHub Desktop](https://desktop.github.com/)
+* python's code: data type(int, float, str, bool), if and else, input, print, **while and break**, **datetime(module)**
+* exercise: [0915 W2 class](https://github.com/AndersonTsaiTW/PL-Repo/tree/main/01_Notes/exercise_0915_02of16)
+* 其他練習: [遲繳罰金計算機(可輸入金額、繳納時間，並有利率輸入錯誤迴圈)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0915_02of16/fee_calaulator.ipynb)
 ## 作業連結區
 
 ## 專題連結區

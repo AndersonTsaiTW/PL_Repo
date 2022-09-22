@@ -18,7 +18,7 @@
 * 其他練習: [遲繳罰金計算機(可輸入金額、繳納時間，並有利率輸入錯誤迴圈)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0915_02of16/fee_calaulator.ipynb)
 #### W3 class
 * Find a scene for database operations: intersection, union, difference, symmetric_differen
-* Python's code:pandas(different)
+* Python's code:pandas(different, load_csv)
 ## 作業連結區
 
 ## 專題連結區

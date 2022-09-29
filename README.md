@@ -19,6 +19,8 @@
 #### W3 class
 * Find a scene for database operations: intersection, union, difference, symmetric_differen
 * Python's code:pandas(different, load_csv)
+#### W4 class
+* dictionary應用：[點菜計算機](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0929_04of16/EX1_dict.ipynb)
 ## 作業連結區
 
 ## 專題連結區

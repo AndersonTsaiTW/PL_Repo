@@ -15,12 +15,12 @@
 * Sync files between local and GitHub: use [GitHub Desktop](https://desktop.github.com/)
 * Python's code: data type(int, float, str, bool), if and else, input, print, **while and break**, **datetime(module)**
 * Exercise: [0915 W2 class](https://github.com/AndersonTsaiTW/PL-Repo/tree/main/01_Notes/exercise_0915_02of16)
-* 其他練習: [遲繳罰金計算機(可輸入金額、繳納時間，並有利率輸入錯誤迴圈)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0915_02of16/fee_calaulator.ipynb)
+* 其他練習: [遲繳罰金計算機(可輸入金額、繳納時間，利率錯誤防呆機制)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0915_02of16/fee_calaulator.ipynb)
 #### W3 class
 * Find a scene for database operations: intersection, union, difference, symmetric_differen
 * Python's code:pandas(different, load_csv)
 #### W4 class
-* dictionary應用：[點菜計算機](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0929_04of16/EX1_dict.ipynb)
+* dictionary應用：[點菜計算機(可自動計算等餐時間、卡洛里、總價)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0929_04of16/EX1_dictionary.ipynb)
 ## 作業連結區
 
 ## 專題連結區

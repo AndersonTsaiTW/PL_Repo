@@ -20,7 +20,7 @@
 * Find a scene for database operations: intersection, union, difference, symmetric_differen
 * Python's code:pandas(different, load_csv)
 #### W4 class
-* dictionary應用：[點菜計算機(可自動計算等餐時間、卡洛里、總價)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0929_04of16/EX1_dictionary.ipynb)、[交通違規練習(挑戰單一字典使用)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0929_04of16/EX2_PairPrograming.ipynb)
+* dictionary應用：[點菜計算機(可自動計算等餐時間、卡洛里、總價)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0929_04of16/EX1_dictionary.ipynb)、[交通違規練習(單一字典及多功函數架構)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0929_04of16/EX2_PairPrograming.ipynb)
 ## 作業連結區
 
 ## 專題連結區

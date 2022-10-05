@@ -23,5 +23,5 @@
 * Python's code:enumerate(將給定序號成為配對結構), sorted(x1, key = lambda s: s[1])(x1為配對數列，lambda為虛擬表示法，透過s[1]表達“依每個配對數列的第2個(因為第一個是0)數列資訊來排序”)
 * dictionary應用：[點菜計算機(可自動計算等餐時間、卡洛里、總價)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0929_04of16/EX1_dictionary.ipynb)、[交通違規練習(單一字典及多功函數架構)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0929_04of16/EX2_PairPrograming.ipynb)
 ## 作業連結區
-* [HW1-台鐵各車站使用分析](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW1/stations_analysis.ipynb)
+* [HW1-台鐵各車站使用分析](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW1/stations_analysis.ipynb)：演示交集、聯擊、差集及對稱差集，並有擴張應用，使用者可自行輸入日期區間及單日使用人次標準，找出不合標準的車站，以考慮是否汰除
 ## 專題連結區

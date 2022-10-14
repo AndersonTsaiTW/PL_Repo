@@ -27,7 +27,7 @@
 * csv to dataframe, json to dictionary
 * new datatype:json("import json" and use "json.load") 
 #### w6 class
-* regular express: [introduce](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI), [tools](https://regexr.com/)
+* regular expression: [introduce](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI), [tools](https://regexr.com/)
 * Python's code: .get(import json), re("import re", search, group, findall, sub, split, compile)
 ## 作業連結區
 * [HW1-台鐵各車站使用分析](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW1/stations_analysis.ipynb)：演示交集、聯擊、差集及對稱差集，並擴張應用讓使用者可自行輸入日期區間及日使用人次標準，找出不合標準的車站，以考慮是否汰除

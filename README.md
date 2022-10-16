@@ -32,5 +32,5 @@
 * Python's code: .get(import json), re("import re", search, group, findall, sub, split, compile)
 ## 作業連結區
 * [HW1-台鐵各車站使用分析](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW1/stations_analysis.ipynb)：演示交集、聯擊、差集及對稱差集，並擴張應用讓使用者可自行輸入日期區間及日使用人次標準，找出不合標準的車站，以考慮是否汰除
-* [HW2]
+* [HW2-休閒農場查詢及行程規劃器](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW2/FarmStay.ipynb)
 ## 專題連結區

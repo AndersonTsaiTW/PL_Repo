@@ -30,7 +30,9 @@
 * regular expression: [introduce](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI), [tools](https://regexr.com/)
 * [json data structure visualizer](https://jsoncrack.com/editor)
 * Python's code: .get(import json), re("import re", search, group, findall, sub, split, compile)
+#### w7 class
+* [nbviewer](https://nbviewer.org/): when your can't open your jupyter doc, try this
 ## 作業連結區
 * [HW1-台鐵各車站使用分析](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW1/stations_analysis.ipynb)：演示交集、聯擊、差集及對稱差集，並擴張應用讓使用者可自行輸入日期區間及日使用人次標準，找出不合標準的車站，以考慮是否汰除
-* [HW2-休閒農場_行程建議產生器](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW2/FarmStay.ipynb)：演示查詢及排序，提供2種應用，使用者可依照區域查詢休閒農場，將協助依預定費用排序，協助挑選農場；若已經確定想去的第一個農場，將依據直線距離遠近，額外推薦5家鄰近農場，協助規劃休閒農場系列之旅。
+* [HW2-休閒農場_行程建議產生器](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW2/FarmStay.ipynb)：演示查詢及排序，提供2種應用，使用者可依照區域查詢休閒農場，將協助依預定費用排序，協助挑選農場；若已經確定想去的第一個農場，將依據直線距離遠近，額外推薦5家鄰近農場，協助規劃休閒農場系列之旅
 ## 專題連結區

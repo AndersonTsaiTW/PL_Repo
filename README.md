@@ -34,6 +34,8 @@
 * [nbviewer](https://nbviewer.org/): when your can't open your jupyter doc, try this
 * [大數軟體_爬蟲教學](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)
 * [VS Code](https://code.visualstudio.com/)
+#### w8 class
+* Python's code: dataframe(eval, append, loc, linc, str.contains)
 ## 作業連結區
 * [HW1-台鐵各車站使用分析](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW1/stations_analysis.ipynb)：演示交集、聯擊、差集及對稱差集
   1. 找出一段時間內無人使用的車站

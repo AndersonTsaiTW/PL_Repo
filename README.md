@@ -46,7 +46,7 @@
 * [HW2-休閒農場_行程建議產生器](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW2/FarmStay.ipynb)：演示查詢及排序
   1. 應用一：使用者可依照區域查詢休閒農場，將協助依預定費用排序，協助挑選農場
   2. 應用二：若已經確定想去的第一個農場，將依據直線距離遠近，額外推薦5家鄰近農場，協助規劃休閒農場系列之旅
-* [HW3-ptt movie版爬蟲(基本版)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW3/ptt_movie.ipynb)、[小李飛刀爬蟲(進階版)：user-agent使用、自動換頁、章節對照](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW3/GuLong_crawler.ipynb)
+* [HW3-ptt movie版爬蟲(基本版)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW3/ptt_movie.ipynb)、[小李飛刀爬蟲(進階版：user-agent使用、自動換頁、章節對照)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW3/GuLong_crawler.ipynb)
 ## 專題連結區
 
 [Classmates List](https://docs.google.com/spreadsheets/d/1hRIOovstwJst0SXgM_bogjYsrHLVZv4uVOkmYrgbql0/edit#gid=948403574)

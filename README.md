@@ -39,8 +39,11 @@
 * [Plotly](https://plotly.com/python/)
 #### w9 class
 * text mining: [LDA ref](https://medium.com/%E5%B0%8F%E8%94%A3%E7%9A%84%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%B0%8F%E5%A4%A9%E5%9C%B0/%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98-lda-latent-dirichlet-allocation-topic-model-a5001afdca34), [TextRank](https://danjtchen.medium.com/textrank-%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98-%E6%89%BE%E5%87%BA%E9%97%9C%E9%8D%B5%E5%AD%97-%E4%BB%A5-%E5%85%AB%E5%8D%A6%E7%89%88%E6%A8%99%E9%A1%8C%E7%82%BA%E4%BE%8B-b16620370872), [hyphenation](https://peilee-98185.medium.com/python-%E5%A5%97%E4%BB%B6%E6%AF%94%E8%BC%83-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%96%B7%E5%AD%97-4e7a452138f8), [other ref](https://github.com/lining0806/TextMining), [Jieba說明](https://github.com/fxsjy/jieba)
+#### w10 class
+* Speech of Bass: 矽谷職場生存三部曲：愛拚不會贏，愛說才會！[簡易筆記]（https://medium.com/@andersontsaitw/bass-anthropological-observations-in-silicon-valley-90a440186714）
 #### w12 class
 * UI/UX and full stake
+* golden rule: Why, How, What
 ## 作業連結區
 * [HW1-台鐵各車站使用分析](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW1/stations_analysis.ipynb)：演示交集、聯擊、差集及對稱差集
   1. 找出一段時間內無人使用的車站

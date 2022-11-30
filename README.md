@@ -53,6 +53,7 @@
   2. 應用二：若已經確定想去的第一個農場，將依據直線距離遠近，額外推薦5家鄰近農場，協助規劃休閒農場系列之旅
 * [HW3-ptt movie版爬蟲(基本版)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW3/ptt_movie.ipynb)、[小李飛刀爬蟲(進階版：user-agent使用、自動換頁、章節對照)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW3/GuLong_crawler.ipynb)
 * [HW4-多情劍客無情劍_探勘古龍文字寫作](https://medium.com/@andersontsaitw/%E5%A4%9A%E6%83%85%E5%8A%8D%E5%AE%A2%E7%84%A1%E6%83%85%E5%8A%8D-%E6%8E%A2%E5%8B%98%E5%8F%A4%E9%BE%8D%E6%96%87%E5%AD%97%E5%AF%AB%E4%BD%9C-ad976a7760ef)：[程式碼參照](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW4/GLandJY.ipynb)
+* [HW4-多情劍客無情劍_探勘古龍文字寫作_part2](https://medium.com/@andersontsaitw/aa91d8bd289b)：[程式碼參照](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW4%265/GLandJY_update.ipynb)
 ## 專題連結區
 
 [Classmates List](https://docs.google.com/spreadsheets/d/1hRIOovstwJst0SXgM_bogjYsrHLVZv4uVOkmYrgbql0/edit#gid=948403574)

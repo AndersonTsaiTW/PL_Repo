@@ -52,7 +52,7 @@
 * [HW4-多情劍客無情劍_探勘古龍文字寫作](https://medium.com/@andersontsaitw/%E5%A4%9A%E6%83%85%E5%8A%8D%E5%AE%A2%E7%84%A1%E6%83%85%E5%8A%8D-%E6%8E%A2%E5%8B%98%E5%8F%A4%E9%BE%8D%E6%96%87%E5%AD%97%E5%AF%AB%E4%BD%9C-ad976a7760ef)：[程式碼參照](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW4%265/GLandJY.ipynb)
 * [HW5-多情劍客無情劍_探勘古龍文字寫作_part2](https://medium.com/@andersontsaitw/aa91d8bd289b)：[程式碼參照](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW4%265/GLandJY_up.ipynb)
 ## 專題連結區
-# 那個鐵達尼號乘客：
+### 那個鐵達尼號乘客：
   1. [GitHub專案位置](https://github.com/BonBa2K/PL_project_tatanic)
   2. [資料分析程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_data_analysis_v1.ipynb)
   3. [預測建模程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_model_v1.ipynb)

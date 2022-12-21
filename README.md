@@ -51,10 +51,12 @@
 * [HW3-ptt movie版爬蟲(基本版)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW3/ptt_movie.ipynb)、[小李飛刀爬蟲(進階版：user-agent使用、自動換頁、章節對照)](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW3/GuLong_crawler.ipynb)
 * [HW4-多情劍客無情劍_探勘古龍文字寫作](https://medium.com/@andersontsaitw/%E5%A4%9A%E6%83%85%E5%8A%8D%E5%AE%A2%E7%84%A1%E6%83%85%E5%8A%8D-%E6%8E%A2%E5%8B%98%E5%8F%A4%E9%BE%8D%E6%96%87%E5%AD%97%E5%AF%AB%E4%BD%9C-ad976a7760ef)：[程式碼參照](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW4%265/GLandJY.ipynb)
 * [HW5-多情劍客無情劍_探勘古龍文字寫作_part2](https://medium.com/@andersontsaitw/aa91d8bd289b)：[程式碼參照](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW4%265/GLandJY_up.ipynb)
-## 專題連結區 - 那個鐵達尼號乘客
+## 專題連結區
+#### 那個鐵達尼號乘客(Dragon、EK、Anderson)
   1. [GitHub專案位置](https://github.com/BonBa2K/PL_project_tatanic)
   2. [資料分析程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_data_analysis_v1.ipynb)
   3. [預測建模程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_model_v1.ipynb)
+  2022/12/22的成績
   <img width="1506" alt="image" src="https://user-images.githubusercontent.com/113076298/208964322-4e6a2fdb-c7bd-456f-83f9-67b6705dbb66.png">
 
 ## 其他補充

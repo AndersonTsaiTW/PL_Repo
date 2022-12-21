@@ -53,9 +53,10 @@
 * [HW5-多情劍客無情劍_探勘古龍文字寫作_part2](https://medium.com/@andersontsaitw/aa91d8bd289b)：[程式碼參照](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/02_Homework/HW4%265/GLandJY_up.ipynb)
 ## 專題連結區
 #### 『那個鐵達尼號乘客』(Dragon、EK、Anderson)
-  1. [GitHub專案位置](https://github.com/BonBa2K/PL_project_tatanic)
-  2. [資料分析程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_data_analysis_v1.ipynb)
-  3. [預測建模程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_model_v1.ipynb)
+  1. [專案網頁](https://bonba2k.github.io/PL_project_tatanic/EK_part/test.html)
+  2. [GitHub專案位置](https://github.com/BonBa2K/PL_project_tatanic)
+  3. [資料分析程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_data_analysis_v1.ipynb)
+  4. [預測建模程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_model_v1.ipynb)
   <img width="1506" alt="image" src="https://user-images.githubusercontent.com/113076298/208964322-4e6a2fdb-c7bd-456f-83f9-67b6705dbb66.png">(2022/12/22的成績)  
   
 ## 其他補充

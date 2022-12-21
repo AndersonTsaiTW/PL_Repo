@@ -55,7 +55,7 @@
 #### 『那個鐵達尼號乘客』(Dragon、EK、Anderson)
   1. [GitHub專案位置](https://github.com/BonBa2K/PL_project_tatanic)
   2. [資料分析程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_data_analysis_v1.ipynb)
-  3. [預測建模程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_model_v1.ipynb)
+  3. [預測建模程式碼](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/03_topic/Titanic_model_v1.ipynb)  
   2022/12/22的成績
   <img width="1506" alt="image" src="https://user-images.githubusercontent.com/113076298/208964322-4e6a2fdb-c7bd-456f-83f9-67b6705dbb66.png">
 

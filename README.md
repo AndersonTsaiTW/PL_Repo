@@ -1,10 +1,11 @@
 # PL-Repo
-### (2022) Learning programing language in NTNU
+### (2022) Learning programing language in NTNU  
+參考書目：[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)(by Jake VanderPlas)
 
 ### 111-1 師大科技系程式語言  
 授課教師：蔡芸琤   
 姓名：蔡昱宏  
-系級：校外選讀生
+系級：校外選讀生  
 
 ## 課程筆記區
 #### W2 class

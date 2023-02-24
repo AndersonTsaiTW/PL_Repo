@@ -1,4 +1,4 @@
-# PL-Repo
+# PL_Repo
 ### (2022) Learning programing language in NTNU  
 參考書目：[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)(by Jake VanderPlas)
 
